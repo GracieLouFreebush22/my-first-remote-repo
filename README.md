@@ -6,6 +6,8 @@ It started life as a local git repository.
 
 But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 EXCELLENT WORK GRACE AND FRENS 
+
+my name is grace, not chase, fav food always and forever is ... TOMATOES <3
 # my-first-remote-repo
 # my-first-remote-repo
 # my-first-remote-repo
